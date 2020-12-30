@@ -1,0 +1,26 @@
+{
+  "name": "verstka",
+  "version": "1.0.0",
+  "description": "my first verstka",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chopachop/verstka.git"
+  },
+  "keywords": [
+    "verstka",
+    "retaurant"
+  ],
+  "author": "chop-chop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chopachop/verstka/issues"
+  },
+  "homepage": "https://github.com/chopachop/verstka#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
